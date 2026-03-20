@@ -21,8 +21,7 @@ Tenho interesse em segurança ofensiva, análise de superfícies de ataque, reco
 <p>
   <img src="https://img.shields.io/badge/Nmap-004170?style=for-the-badge" />
   <img src="https://img.shields.io/badge/WhatWeb-5C2D91?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nikto-222222?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white" />
+    <img src="https://img.shields.io/badge/Termux-000000?style=for-the-badge&logo=android&logoColor=white" />
   <img src="https://img.shields.io/badge/NetHunter-557C94?style=for-the-badge" />
 </p>
 
