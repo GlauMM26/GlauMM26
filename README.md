@@ -55,3 +55,32 @@ Tenho interesse em segurança ofensiva, análise de superfícies de ataque, reco
 - Python automation
 - Controlled security lab environments
 - Pentest
+
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=GlauMM26&show_icons=true&theme=tokyonight&count_private=true" />
+
+---
+
+## 🚀 Philosophy
+
+💻 "Hackear não é invadir — é compreender."
+
+Atuar explorando sistemas para identificar falhas, entender comportamentos
+e fortalecer estruturas digitais.
+
+Cada vulnerabilidade é uma oportunidade de evolução.
+Cada teste é uma defesa construída.
+
+🔐 Minha missão:
+Transformar conhecimento em proteção,
+curiosidade em estratégia,
+e prática em segurança real.
+
+---
+
+⭐ If you like my work, consider starring a repository  
+🤝 Always open to collaborations, partnerships, and cool ideas
+
